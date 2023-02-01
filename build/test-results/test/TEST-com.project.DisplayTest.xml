@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.DisplayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-01T12:39:37" hostname="LINNEATOR" time="1.952">
+  <properties/>
+  <testcase name="testCompileData" classname="com.project.DisplayTest" time="1.952"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.project.CustomerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-01T12:39:37" hostname="LINNEATOR" time="0.001">
+  <properties/>
+  <testcase name="testGetLoan" classname="com.project.CustomerTest" time="0.0"/>
+  <testcase name="testGetName" classname="com.project.CustomerTest" time="0.0"/>
+  <testcase name="testGetTime" classname="com.project.CustomerTest" time="0.001"/>
+  <testcase name="testMonthlyPayment" classname="com.project.CustomerTest" time="0.0"/>
+  <testcase name="testGetInterest" classname="com.project.CustomerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
