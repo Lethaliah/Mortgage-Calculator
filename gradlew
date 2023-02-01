@@ -242,3 +242,4 @@ eval "set -- $(
     )" '"$@"'
 
 exec "$JAVACMD" "$@"
+git update-index --chmod=+x gradlew
