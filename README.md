@@ -1,5 +1,5 @@
 # Mortgage-Calculator
-Calculates monthly payments for customers, whose info is read from a txt file
+Calculates monthly payments for customers, whose info is read from the txt file 'prospects.txt', then displays the result.
 ## 
 This was programmed using Gradle 7.6 and Java 19.0.2
 
